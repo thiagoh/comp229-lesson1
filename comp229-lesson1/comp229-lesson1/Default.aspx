@@ -6,4 +6,6 @@
     
     <h3>I'm thiagoh</h3>
 
+    <p>You got here at <b><%= DateTime.Now.ToString() %></b></p>
+
 </asp:Content>
