@@ -8,4 +8,6 @@
 
     <p>You got here at <b><%= DateTime.Now.ToString() %></b></p>
 
+    test!
+
 </asp:Content>
